@@ -1,0 +1,4 @@
+nome	idade	cidade
+Ana	25	SP
+Bruno	30	RJ
+Carla	35	MG
