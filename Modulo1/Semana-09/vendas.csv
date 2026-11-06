@@ -1,0 +1,181 @@
+id_venda,data,categoria,regiao,canal,quantidade,preco_unitario,faturamento,quantidade_ruido,id_ruido,preco_ruido,regiao_ruido,faturamento_ruido
+1,2025-01-01,Papelaria,Sul,Loja,3,22,66,,1,2200,Sul,-66
+2,2025-02-02,Eletrônicos,Sul,Loja,5,172,860,5,1,172,SUL,860
+3,2025-03-03,Papelaria,Sudeste,Loja,1,17,17,1,1,17,Sudeste,17
+4,2025-04-04,Eletrônicos,Sul,Loja,5,176,880,5,4,176,SUL,880
+5,2025-05-05,Papelaria,Nordeste,Online,2,29,58,2,5,29,Nordeste,58
+6,2025-06-06,Papelaria,Sudeste,Loja,2,28,56,2,6,28, sudeste ,56
+7,2025-01-07,Casa,Sudeste,Loja,2,75,150,2,7,75,Sudeste,150
+8,2025-02-08,Eletrônicos,Sul,Online,1,181,181,1,8,181,SUL,181
+9,2025-03-09,Casa,Nordeste,Online,1,79,79,1,9,79,Nordeste,79
+10,2025-04-10,Papelaria,Sul,Online,1,32,32,,10,32,SUL,32
+11,2025-05-11,Casa,Nordeste,Online,5,71,355,5,11,71,Nordeste,355
+12,2025-06-12,Papelaria,Sul,Loja,2,24,48,2,12,24,SUL,48
+13,2025-01-13,Eletrônicos,Sul,Loja,4,178,712,4,13,178,Sul,712
+14,2025-02-14,Casa,Nordeste,Online,2,76,152,2,14,76,Nordeste,152
+15,2025-03-15,Casa,Sul,Online,1,84,84,1,15,84,Sul,84
+16,2025-04-16,Papelaria,Sul,Loja,2,29,58,2,16,29,SUL,58
+17,2025-05-17,Casa,Sudeste,Loja,3,66,198,3,17,66,Sudeste,198
+18,2025-06-18,Eletrônicos,Sul,Online,4,178,712,4,18,178,SUL,-712
+19,2025-01-19,Eletrônicos,Sul,Online,2,190,380,,19,190,Sul,380
+20,2025-02-20,Casa,Sudeste,Online,2,73,146,2,20,73, sudeste ,146
+21,2025-03-21,Eletrônicos,Sul,Online,5,183,915,5,21,183,Sul,915
+22,2025-04-22,Papelaria,Sudeste,Online,2,19,38,2,22,19, sudeste ,38
+23,2025-05-23,Papelaria,Sudeste,Loja,1,18,18,1,23,18,Sudeste,18
+24,2025-06-24,Eletrônicos,Nordeste,Loja,4,189,756,4,24,189,Nordeste,756
+25,2025-01-25,Eletrônicos,Sudeste,Online,5,184,920,5,25,184,Sudeste,920
+26,2025-02-26,Papelaria,Sudeste,Loja,1,32,32,1,26,32, sudeste ,32
+27,2025-03-27,Casa,Nordeste,Online,1,74,74,1,27,74,Nordeste,74
+28,2025-04-28,Casa,Sul,Online,1,73,73,,28,73,SUL,73
+29,2025-05-01,Papelaria,Sul,Loja,3,35,105,3,29,35,Sul,105
+30,2025-06-02,Papelaria,Nordeste,Loja,2,26,52,2,30,26,Nordeste,52
+31,2025-01-03,Eletrônicos,Nordeste,Loja,5,180,900,5,31,180,Nordeste,900
+32,2025-02-04,Casa,Sul,Loja,3,74,222,3,32,74,SUL,222
+33,2025-03-05,Eletrônicos,Sul,Loja,5,172,860,5,33,172,Sul,860
+34,2025-04-06,Eletrônicos,Nordeste,Online,1,187,187,1,34,187,Nordeste,187
+35,2025-05-07,Eletrônicos,Sul,Online,5,175,875,5,35,175,Sul,-875
+36,2025-06-08,Casa,Nordeste,Online,2,82,164,2,36,82,Nordeste,164
+37,2025-01-09,Papelaria,Nordeste,Loja,3,27,81,,37,27,Nordeste,81
+38,2025-02-10,Papelaria,Nordeste,Online,4,31,124,4,38,31,Nordeste,124
+39,2025-03-11,Casa,Sul,Loja,2,67,134,2,39,67,Sul,134
+40,2025-04-12,Casa,Sul,Loja,5,72,360,5,40,72,SUL,360
+41,2025-05-13,Eletrônicos,Sul,Loja,2,172,344,2,41,172,Sul,344
+42,2025-06-14,Eletrônicos,Sudeste,Loja,5,177,885,5,42,177, sudeste ,885
+43,2025-01-15,Casa,Nordeste,Online,2,82,164,2,43,82,Nordeste,164
+44,2025-02-16,Eletrônicos,Nordeste,Online,2,185,370,2,44,185,Nordeste,370
+45,2025-03-17,Casa,Sul,Loja,1,78,78,1,45,78,Sul,78
+46,2025-04-18,Casa,Sudeste,Online,4,66,264,,46,66, sudeste ,264
+47,2025-05-19,Papelaria,Nordeste,Loja,1,27,27,1,47,27,Nordeste,27
+48,2025-06-20,Papelaria,Sudeste,Loja,2,21,42,2,48,21, sudeste ,42
+49,2025-01-21,Eletrônicos,Nordeste,Online,2,183,366,2,49,183,Nordeste,366
+50,2025-02-22,Eletrônicos,Sudeste,Online,2,172,344,2,50,172, sudeste ,344
+51,2025-03-23,Casa,Nordeste,Loja,1,85,85,1,51,85,Nordeste,85
+52,2025-04-24,Papelaria,Sul,Loja,2,20,40,2,52,20,SUL,-40
+53,2025-05-25,Casa,Sudeste,Online,2,77,154,2,53,77,Sudeste,154
+54,2025-06-26,Eletrônicos,Sul,Online,1,182,182,1,54,182,SUL,182
+55,2025-01-27,Casa,Sudeste,Online,4,82,328,,55,82,Sudeste,328
+56,2025-02-28,Papelaria,Nordeste,Online,2,21,42,2,56,21,Nordeste,42
+57,2025-03-01,Casa,Sul,Loja,5,82,410,5,57,82,Sul,410
+58,2025-04-02,Eletrônicos,Nordeste,Online,1,171,171,1,58,171,Nordeste,171
+59,2025-05-03,Papelaria,Sudeste,Loja,1,31,31,1,59,31,Sudeste,31
+60,2025-06-04,Eletrônicos,Sul,Loja,5,172,860,5,60,172,SUL,860
+61,2025-01-05,Papelaria,Sul,Online,1,33,33,1,61,33,Sul,33
+62,2025-02-06,Eletrônicos,Nordeste,Loja,5,172,860,5,62,172,Nordeste,860
+63,2025-03-07,Casa,Nordeste,Online,3,71,213,3,63,71,Nordeste,213
+64,2025-04-08,Papelaria,Nordeste,Online,2,23,46,,64,23,Nordeste,46
+65,2025-05-09,Casa,Sul,Online,4,75,300,4,65,75,Sul,300
+66,2025-06-10,Eletrônicos,Sul,Online,5,188,940,5,66,188,SUL,940
+67,2025-01-11,Eletrônicos,Sul,Loja,5,178,890,5,67,178,Sul,890
+68,2025-02-12,Eletrônicos,Sudeste,Loja,2,181,362,2,68,181, sudeste ,362
+69,2025-03-13,Casa,Sul,Online,5,74,370,5,69,74,Sul,-370
+70,2025-04-14,Papelaria,Nordeste,Loja,5,24,120,5,70,24,Nordeste,120
+71,2025-05-15,Papelaria,Sul,Loja,3,18,54,3,71,18,Sul,54
+72,2025-06-16,Eletrônicos,Nordeste,Loja,3,179,537,3,72,179,Nordeste,537
+73,2025-01-17,Papelaria,Sul,Online,2,35,70,,73,35,Sul,70
+74,2025-02-18,Casa,Nordeste,Online,3,66,198,3,74,66,Nordeste,198
+75,2025-03-19,Eletrônicos,Nordeste,Online,3,171,513,3,75,171,Nordeste,513
+76,2025-04-20,Eletrônicos,Sudeste,Loja,3,175,525,3,76,175, sudeste ,525
+77,2025-05-21,Papelaria,Sudeste,Online,5,15,75,5,77,15,Sudeste,75
+78,2025-06-22,Eletrônicos,Sul,Loja,5,171,855,5,78,171,SUL,855
+79,2025-01-23,Casa,Nordeste,Loja,4,69,276,4,79,69,Nordeste,276
+80,2025-02-24,Eletrônicos,Sudeste,Online,1,181,181,1,80,181, sudeste ,181
+81,2025-03-25,Eletrônicos,Nordeste,Loja,1,181,181,1,81,181,Nordeste,181
+82,2025-04-26,Papelaria,Sudeste,Loja,2,20,40,,82,20, sudeste ,40
+83,2025-05-27,Eletrônicos,Sudeste,Loja,2,180,360,2,83,180,Sudeste,360
+84,2025-06-28,Casa,Nordeste,Loja,3,70,210,3,84,70,Nordeste,210
+85,2025-01-01,Papelaria,Sul,Online,1,30,30,1,85,30,Sul,30
+86,2025-02-02,Eletrônicos,Sul,Online,3,179,537,3,86,179,SUL,-537
+87,2025-03-03,Eletrônicos,Sul,Loja,2,182,364,2,87,182,Sul,364
+88,2025-04-04,Casa,Sudeste,Loja,3,76,228,3,88,76, sudeste ,228
+89,2025-05-05,Papelaria,Nordeste,Online,5,25,125,5,89,25,Nordeste,125
+90,2025-06-06,Eletrônicos,Sul,Online,2,188,376,2,90,188,SUL,376
+91,2025-01-07,Casa,Sul,Loja,5,78,390,,91,78,Sul,390
+92,2025-02-08,Casa,Nordeste,Online,4,84,336,4,92,84,Nordeste,336
+93,2025-03-09,Papelaria,Sul,Online,5,21,105,5,93,21,Sul,105
+94,2025-04-10,Casa,Sul,Online,1,81,81,1,94,81,SUL,81
+95,2025-05-11,Papelaria,Nordeste,Loja,3,28,84,3,95,28,Nordeste,84
+96,2025-06-12,Eletrônicos,Nordeste,Online,5,180,900,5,96,180,Nordeste,900
+97,2025-01-13,Papelaria,Sul,Online,5,24,120,5,97,24,Sul,120
+98,2025-02-14,Papelaria,Sudeste,Online,4,24,96,4,98,24, sudeste ,96
+99,2025-03-15,Papelaria,Sul,Loja,4,27,108,4,99,27,Sul,108
+100,2025-04-16,Papelaria,Nordeste,Loja,5,33,165,,100,33,Nordeste,165
+101,2025-05-17,Casa,Sudeste,Loja,3,74,222,3,101,74,Sudeste,222
+102,2025-06-18,Eletrônicos,Sudeste,Online,4,184,736,4,102,184, sudeste ,736
+103,2025-01-19,Casa,Nordeste,Loja,5,80,400,5,103,80,Nordeste,-400
+104,2025-02-20,Papelaria,Sul,Loja,3,31,93,3,104,31,SUL,93
+105,2025-03-21,Papelaria,Nordeste,Online,1,22,22,1,105,22,Nordeste,22
+106,2025-04-22,Papelaria,Sudeste,Loja,2,19,38,2,106,19, sudeste ,38
+107,2025-05-23,Eletrônicos,Sul,Loja,4,189,756,4,107,189,Sul,756
+108,2025-06-24,Eletrônicos,Sudeste,Online,5,176,880,5,108,176, sudeste ,880
+109,2025-01-25,Papelaria,Nordeste,Online,4,27,108,,109,27,Nordeste,108
+110,2025-02-26,Eletrônicos,Sul,Loja,1,183,183,1,110,183,SUL,183
+111,2025-03-27,Eletrônicos,Sul,Online,1,187,187,1,111,187,Sul,187
+112,2025-04-28,Eletrônicos,Sul,Online,2,184,368,2,112,184,SUL,368
+113,2025-05-01,Papelaria,Nordeste,Online,4,34,136,4,113,34,Nordeste,136
+114,2025-06-02,Papelaria,Nordeste,Online,5,29,145,5,114,29,Nordeste,145
+115,2025-01-03,Eletrônicos,Nordeste,Online,4,178,712,4,115,178,Nordeste,712
+116,2025-02-04,Eletrônicos,Nordeste,Online,5,185,925,5,116,185,Nordeste,925
+117,2025-03-05,Papelaria,Sul,Online,4,17,68,4,117,17,Sul,68
+118,2025-04-06,Papelaria,Sudeste,Loja,3,25,75,,118,25, sudeste ,75
+119,2025-05-07,Casa,Nordeste,Loja,2,69,138,2,119,69,Nordeste,138
+120,2025-06-08,Eletrônicos,Sudeste,Loja,2,172,344,2,120,172, sudeste ,-344
+121,2025-01-09,Casa,Sudeste,Online,5,79,395,5,121,79,Sudeste,395
+122,2025-02-10,Casa,Sul,Loja,4,77,308,4,122,77,SUL,308
+123,2025-03-11,Papelaria,Nordeste,Loja,5,27,135,5,123,27,Nordeste,135
+124,2025-04-12,Casa,Sul,Online,3,77,231,3,124,77,SUL,231
+125,2025-05-13,Casa,Nordeste,Loja,4,72,288,4,125,72,Nordeste,288
+126,2025-06-14,Casa,Sudeste,Online,1,77,77,1,126,77, sudeste ,77
+127,2025-01-15,Casa,Nordeste,Online,2,79,158,,127,79,Nordeste,158
+128,2025-02-16,Eletrônicos,Nordeste,Loja,4,188,752,4,128,188,Nordeste,752
+129,2025-03-17,Papelaria,Nordeste,Loja,1,35,35,1,129,35,Nordeste,35
+130,2025-04-18,Casa,Sul,Online,2,66,132,2,130,66,SUL,132
+131,2025-05-19,Casa,Sudeste,Online,2,79,158,2,131,79,Sudeste,158
+132,2025-06-20,Casa,Sudeste,Online,3,78,234,3,132,78, sudeste ,234
+133,2025-01-21,Casa,Sul,Online,1,82,82,1,133,82,Sul,82
+134,2025-02-22,Eletrônicos,Sudeste,Loja,1,190,190,1,134,190, sudeste ,190
+135,2025-03-23,Eletrônicos,Sul,Loja,2,170,340,2,135,170,Sul,340
+136,2025-04-24,Papelaria,Sul,Loja,2,30,60,,136,30,SUL,60
+137,2025-05-25,Papelaria,Sul,Loja,4,23,92,4,137,23,Sul,-92
+138,2025-06-26,Casa,Sul,Loja,2,74,148,2,138,74,SUL,148
+139,2025-01-27,Eletrônicos,Nordeste,Loja,3,188,564,3,139,188,Nordeste,564
+140,2025-02-28,Papelaria,Sudeste,Online,2,17,34,2,140,17, sudeste ,34
+141,2025-03-01,Papelaria,Nordeste,Loja,1,24,24,1,141,24,Nordeste,24
+142,2025-04-02,Papelaria,Nordeste,Loja,5,16,80,5,142,16,Nordeste,80
+143,2025-05-03,Casa,Nordeste,Online,3,67,201,3,143,67,Nordeste,201
+144,2025-06-04,Papelaria,Nordeste,Online,1,28,28,1,144,28,Nordeste,28
+145,2025-01-05,Casa,Sul,Online,3,85,255,,145,85,Sul,255
+146,2025-02-06,Casa,Nordeste,Loja,4,70,280,4,146,70,Nordeste,280
+147,2025-03-07,Papelaria,Nordeste,Online,5,32,160,5,147,32,Nordeste,160
+148,2025-04-08,Casa,Sudeste,Online,5,73,365,5,148,73, sudeste ,365
+149,2025-05-09,Casa,Sul,Loja,3,79,237,3,149,79,Sul,237
+150,2025-06-10,Eletrônicos,Sudeste,Online,3,170,510,3,150,170, sudeste ,510
+151,2025-01-11,Casa,Sudeste,Loja,4,71,284,4,151,71,Sudeste,284
+152,2025-02-12,Casa,Sudeste,Online,3,84,252,3,152,84, sudeste ,252
+153,2025-03-13,Papelaria,Sudeste,Loja,5,21,105,5,153,21,Sudeste,105
+154,2025-04-14,Eletrônicos,Sul,Online,4,187,748,,154,187,SUL,-748
+155,2025-05-15,Eletrônicos,Nordeste,Online,4,184,736,4,155,184,Nordeste,736
+156,2025-06-16,Eletrônicos,Sul,Online,2,182,364,2,156,182,SUL,364
+157,2025-01-17,Papelaria,Sul,Online,5,26,130,5,157,26,Sul,130
+158,2025-02-18,Casa,Nordeste,Online,4,82,328,4,158,82,Nordeste,328
+159,2025-03-19,Casa,Sudeste,Online,3,74,222,3,159,74,Sudeste,222
+160,2025-04-20,Casa,Sul,Loja,2,75,150,2,160,75,SUL,150
+161,2025-05-21,Eletrônicos,Nordeste,Loja,2,176,352,2,161,176,Nordeste,352
+162,2025-06-22,Papelaria,Sudeste,Online,5,31,155,5,162,31, sudeste ,155
+163,2025-01-23,Papelaria,Sudeste,Loja,2,24,48,,163,24,Sudeste,48
+164,2025-02-24,Eletrônicos,Sudeste,Loja,3,170,510,3,164,170, sudeste ,510
+165,2025-03-25,Papelaria,Nordeste,Loja,3,16,48,3,165,16,Nordeste,48
+166,2025-04-26,Eletrônicos,Nordeste,Online,2,190,380,2,166,190,Nordeste,380
+167,2025-05-27,Casa,Sul,Loja,5,74,370,5,167,74,Sul,370
+168,2025-06-28,Casa,Sudeste,Online,3,70,210,3,168,70, sudeste ,210
+169,2025-01-01,Eletrônicos,Sudeste,Online,1,172,172,1,169,172,Sudeste,172
+170,2025-02-02,Casa,Sudeste,Loja,5,85,425,5,170,85, sudeste ,425
+171,2025-03-03,Papelaria,Sul,Loja,2,33,66,2,171,33,Sul,-66
+172,2025-04-04,Casa,Sul,Loja,1,82,82,,172,82,SUL,82
+173,2025-05-05,Casa,Nordeste,Loja,5,77,385,5,173,77,Nordeste,385
+174,2025-06-06,Casa,Sudeste,Online,5,78,390,5,174,78, sudeste ,390
+175,2025-01-07,Casa,Nordeste,Loja,5,68,340,5,175,68,Nordeste,340
+176,2025-02-08,Eletrônicos,Nordeste,Loja,3,172,516,3,176,172,Nordeste,516
+177,2025-03-09,Eletrônicos,Sul,Loja,5,172,860,5,177,172,Sul,860
+178,2025-04-10,Eletrônicos,Sul,Online,4,189,756,4,178,189,SUL,756
+179,2025-05-11,Casa,Sudeste,Loja,2,74,148,2,179,74,Sudeste,148
+180,2025-06-12,Papelaria,Sudeste,Online,1,22,22,1,180,22, sudeste ,22
