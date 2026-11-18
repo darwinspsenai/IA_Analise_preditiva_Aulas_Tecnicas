@@ -1,0 +1,7 @@
+{
+    "arquivo_bruto": "dados/brutos/airbnb_rio_bruto.csv",
+    "arquivo_limpo": "dados/processados/airbnb_rio_limpo.csv",
+    "fator_iqr": 1.5,
+    "fracao_teste": 0.1,
+    "semente": 42
+}
