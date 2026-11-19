@@ -1,0 +1,13 @@
+coluna,problema,acao,justificativa,linhas_removidas
+várias,ausência escrita de formas diferentes,troquei 0 textos por NaN,um único código para 'faltou',0
+neighbourhood_group_cleansed,100% vazia,removi a coluna,não tem informação para nenhum imóvel,0
+host_response_rate,100% vazia,removi a coluna,não tem informação para nenhum imóvel,0
+instant_bookable,100% vazia,removi a coluna,não tem informação para nenhum imóvel,0
+price,número guardado como texto,converti para número (0 valores não convertidos viraram NaN),sem isso não é possível calcular média nem gráfico,0
+name,espaços sobrando,removi espaços extras,'Copacabana ' e 'Copacabana' são o mesmo bairro,0
+host_name,espaços sobrando,removi espaços extras,'Copacabana ' e 'Copacabana' são o mesmo bairro,0
+last_review,data guardada como texto,converti para datetime (errors='coerce'),permite calcular intervalos de dias; datas inválidas viram NaT,0
+bathrooms_text,número e unidade no mesmo texto,criei 'banheiros' e 'banheiro_compartilhado',uma coluna por informação,0
+linha inteira,registro repetido,mantive a primeira ocorrência,a mesma coleta não pode contar duas vezes,60
+price,price: preço maior que zero,15 valores inválidos viraram NaN,regra de negócio: valor impossível não é informação,0
+price,outliers pelo IQR (fator 1.5),limitei 243 valores aos limites,mantém a linha e reduz o efeito do extremo,0
